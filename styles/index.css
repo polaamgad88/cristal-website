@@ -157,7 +157,7 @@ abbr[title] {
   margin-right: auto;
   padding: 40px;
   display: flex;
-} 
+}
 
 .cta-titles {
   width: 55%;
@@ -2277,7 +2277,7 @@ textarea.w-select {
   --font-family--heading: Chakrapetch, sans-serif;
   --color--heading: var(--color--black);
 
-  
+
   --color--primary-1: #425B76;
 
   --color--white: white;
@@ -3562,8 +3562,10 @@ figcaption {
   margin: 10px 0;
   padding: 0 15px;
   transition: opacity 0.3s ease-in-out;
-  display: inline-block;  /* Ensure all nav items are inline */
-    vertical-align: middle;  /* Aligns them to the same vertical position */
+  display: inline-block;
+  /* Ensure all nav items are inline */
+  vertical-align: middle;
+  /* Aligns them to the same vertical position */
 }
 
 .nav-link-light:hover {
@@ -9188,8 +9190,9 @@ figcaption {
     padding-left: 0;
     padding-right: 0;
     display: block;
-    vertical-align: middle;  /* Align the dropdown to the same level */
-    display: inline-block; 
+    vertical-align: middle;
+    /* Align the dropdown to the same level */
+    display: inline-block;
   }
 
   .dropdown-toggle.dropdown-toggle-light:hover {
@@ -9230,7 +9233,7 @@ figcaption {
   }
 
   .logo {
-    height:auto;
+    height: auto;
   }
 
   .button-left {

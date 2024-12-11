@@ -4,7 +4,7 @@
     try {
       if ("undefined" == typeof console) return;
       "error" in console ? console.error(e) : console.log(e);
-    } catch (e) {}
+    } catch (e) { }
   }
   function t(e) {
     return (
