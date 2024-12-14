@@ -11802,6 +11802,13 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'EPI';
+  src: url("./EPILOGUE-SEMIBOLD.TTF") format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
   font-family: 'Chakrapetch';
