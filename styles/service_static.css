@@ -3130,7 +3130,7 @@ html {
   
   .nav-link:hover {
     opacity: .6;
-    background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg");
+    /* background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg"); */
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: auto;
@@ -3140,7 +3140,7 @@ html {
   .nav-link.w--current {
     opacity: .6;
     color: var(--color--primary-1);
-    background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg");
+    /* background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg"); */
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: auto;
@@ -3229,7 +3229,7 @@ html {
   
   .dropdown-toggle.dropdown-toggle-dark:hover {
     opacity: .6;
-    background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg");
+    /* background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg"); */
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: 6px;
