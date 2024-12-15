@@ -2388,8 +2388,7 @@ p {
 }
 
 a {
-  color: var(--color--primary-1);
-  text-decoration: underline;
+  color: #405c74;  text-decoration: underline;
 }
 
 ul,
@@ -3237,8 +3236,7 @@ figcaption {
 }
 
 .utility-page-coming-soon {
-  border: 2px solid var(--color--primary-1);
-  background-color: var(--color--transparent);
+  border: 2px solid #405c74;  background-color: var(--color--transparent);
   text-align: center;
   flex-direction: column;
   width: 800px;
@@ -3266,8 +3264,7 @@ figcaption {
 
 .nav-link.w--current {
   opacity: .6;
-  color: var(--color--primary-1);
-  /* background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg"); */
+  color: #405c74;  /* background-image: url("https://cdn.prod.website-files.com/664b106f1e305b850bd47220/6659ae67fe22018f0f0377ab_dott.svg"); */
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -3295,8 +3292,7 @@ figcaption {
 .dropdown-link:hover,
 .dropdown-link.w--current {
   opacity: .6;
-  color: var(--color--primary-1);
-}
+  color: #405c74;}
 
 .grid-nav {
   grid-column-gap: 20px;
@@ -3376,8 +3372,7 @@ figcaption {
 }
 
 .utility-page-content {
-  border: 1px solid var(--color--primary-1);
-  text-align: center;
+  border: 1px solid #405c74;  text-align: center;
   flex-direction: column;
   align-items: center;
   width: 600px;
@@ -3489,8 +3484,7 @@ figcaption {
 .button-white {
   background-color: var(--color--white);
   opacity: 1;
-  color: var(--color--primary-1);
-  justify-content: flex-start;
+  color: #405c74;  justify-content: flex-start;
   align-items: stretch;
   padding: 12px 30px;
   font-size: 16px;
@@ -3649,9 +3643,7 @@ figcaption {
 
 .page-lines-outside {
   z-index: -1;
-  border-right: 1px solid var(--color--primary-1);
-  border-left: 1px solid var(--color--primary-1);
-  justify-content: center;
+  border-right: 1px solid #405c74;  border-left: 1px solid #405c74;  justify-content: center;
   align-items: stretch;
   width: 49.3%;
   max-width: 1720px;
@@ -3663,8 +3655,7 @@ figcaption {
 
 .page-lines-inside {
   z-index: 0;
-  border-left: 1px solid var(--color--primary-1);
-  justify-content: center;
+  border-left: 1px solid #405c74;  justify-content: center;
   align-items: stretch;
   max-width: 1720px;
   height: 100%;
@@ -3885,8 +3876,7 @@ figcaption {
 }
 
 .left-arrow {
-  border: 1px solid var(--color--primary-1);
-  justify-content: center;
+  border: 1px solid #405c74;  justify-content: center;
   align-items: center;
   width: 50px;
   height: 50px;
@@ -4199,8 +4189,7 @@ figcaption {
 .testimonial-right-arrow {
   border-style: solid;
   border-width: 1px 1px 1px 0;
-  border-color: var(--color--primary-1);
-  justify-content: center;
+  border-color: #405c74;  justify-content: center;
   align-items: center;
   width: 50px;
   height: 50px;
@@ -4216,8 +4205,7 @@ figcaption {
 
 .testimonial-left-arrow {
   z-index: 1;
-  border: 1px solid var(--color--primary-1);
-  justify-content: center;
+  border: 1px solid #405c74;  justify-content: center;
   align-items: center;
   width: 50px;
   height: 50px;
@@ -4540,8 +4528,7 @@ figcaption {
 .button-link {
   grid-column-gap: 8px;
   grid-row-gap: 8px;
-  color: var(--color--primary-1);
-  justify-content: flex-start;
+  color: #405c74;  justify-content: flex-start;
   align-items: flex-start;
   text-decoration: none;
   display: flex;
@@ -4985,8 +4972,7 @@ figcaption {
 }
 
 .slider-left-arrow {
-  border: 1px solid var(--color--primary-1);
-  justify-content: center;
+  border: 1px solid #405c74;  justify-content: center;
   align-items: center;
   width: 50px;
   height: 50px;
@@ -5005,8 +4991,7 @@ figcaption {
 .slider-right-arrow {
   border-style: solid;
   border-width: 1px 1px 1px 0;
-  border-color: var(--color--primary-1);
-  justify-content: center;
+  border-color: #405c74;  justify-content: center;
   align-items: center;
   width: 50px;
   height: 50px;
@@ -5155,8 +5140,7 @@ figcaption {
 
 .team-link {
   opacity: 1;
-  color: var(--color--primary-1);
-  font-size: 20px;
+  color: #405c74;  font-size: 20px;
   text-decoration: underline;
   transition: opacity .3s ease-in-out;
 }
@@ -6322,8 +6306,7 @@ figcaption {
 .project-title-wrap {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
-  border-bottom: 2px solid var(--color--primary-1);
-  opacity: 1;
+  border-bottom: 2px solid #405c74;  opacity: 1;
   flex: 1;
   grid-template-rows: auto auto;
   grid-template-columns: 1fr 1fr;
@@ -8859,8 +8842,7 @@ figcaption {
   }
 
   .client-link {
-    color: var(--color--primary-1);
-    font-size: 20px;
+    color: #405c74;    font-size: 20px;
   }
 
   .client-link:hover {
@@ -9083,16 +9065,14 @@ figcaption {
   }
 
   .nav-link {
-    color: var(--color--primary-1);
-    margin-top: 0;
+    color: #405c74;    margin-top: 0;
     padding-left: 0;
     padding-right: 0;
   }
 
   .nav-link:hover {
     opacity: .6;
-    color: var(--color--primary-1);
-    background-image: none;
+    color: #405c74;    background-image: none;
   }
 
   .nav-link.w--current {
@@ -9124,8 +9104,7 @@ figcaption {
 
   .menu-button {
     background-color: var(--color--white);
-    color: var(--color--primary-1);
-    padding: 10px;
+    color: #405c74;    padding: 10px;
   }
 
   .menu-button.w--open {
@@ -9477,8 +9456,7 @@ figcaption {
   }
 
   .location-link.four.w--current {
-    border-color: var(--color--primary-1);
-  }
+    border-color: #405c74;  }
 
   .gallery-marquee-section {
     margin-bottom: 80px;
@@ -11148,7 +11126,7 @@ figcaption {
   }
 
   .logo {
-    height: 30px;
+    height: 80px;
   }
 
   .navbar-light {
